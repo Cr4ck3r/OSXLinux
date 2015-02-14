@@ -16,8 +16,6 @@ brew install gnu-tar --default-names
 brew install gnu-which --default-names
 brew install gnutls --default-names
 brew install grep --default-names
-brew install gzip
-brew install screen
 brew install watch
 brew install wdiff --with-gettext
 brew install wget
