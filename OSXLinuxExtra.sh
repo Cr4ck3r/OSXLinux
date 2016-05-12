@@ -25,11 +25,11 @@ brew install vim
 brew install git
 brew install gnupg
 brew install gnupg2
-brew install gog-agent
+brew install gpg-agent
 brew install tmux
 brew install ykpers
 brew install zsh
 brew install htop
 brew install python
-brew install python 3
+brew install python3
 brew install watch
