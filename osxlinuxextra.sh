@@ -17,6 +17,7 @@ brew install gnu-which --default-names
 brew install gnutls --default-names
 brew install grep --default-names
 brew install watch
+brew install pv
 brew install wdiff --with-gettext
 brew install wget
 brew install jq
